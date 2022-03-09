@@ -1,9 +1,11 @@
 <div align="center">
- <h1 align="center">Hi 👋, I'm Imrul Emon</h1>
+ <h1 align="center">Hi 👋, I'm Imrul Emon
+ <img src="https://media.giphy.com/media/dhsEopNkQVlSZ3LJHx/giphy.gif" width="20" height="20" />
+ </h1>
+ 
+ 
 <h3 align="center">A passionate Web developer and Programmer</h3>
-
-
-
+<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imrulemon&label=Profile%20views&color=0e75b6&style=flat" alt="imrulemon" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrulemon&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="imrulemon" /></a> </p>
@@ -31,7 +33,7 @@
 
  ⚡ Fun fact **I love Anime**
 
-<img alt ="coding" width="150" src="https://github.com/ImrulEmon/ImrulEmon/blob/main/coding.gif?raw=true">
+<img alt ="coding" width="150" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
