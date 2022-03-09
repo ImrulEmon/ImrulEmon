@@ -6,7 +6,7 @@
  
  
 <h3 align="center">A passionate Web developer and Programmer</h3>
-<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />
+
 <p align="center"> :octocat: <img src="https://komarev.com/ghpvc/?username=imrulemon&label=Profile%20views&color=0e75b6&style=flat" alt="imrulemon" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrulemon&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="imrulemon" /></a> </p>
@@ -32,7 +32,7 @@
 
  📄 Know about my experiences [...](...)
 
- ⚡ Fun fact **I love Anime**
+ ⚡ Fun fact **I love Anime<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />**
 
 <img alt ="coding" width="150" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
