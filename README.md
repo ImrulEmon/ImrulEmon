@@ -32,7 +32,7 @@
 
  📄 Know about my experiences [...](...)
 
- ⚡ Fun fact **I love Anime<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />**
+ <img src="https://media.giphy.com/media/zhrlcZJsvQWDm/giphy.gif" width="50" height="50"/> Fun fact **I love Anime<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />**
 
 <img alt ="coding" width="150" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
