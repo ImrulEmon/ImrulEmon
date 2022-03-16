@@ -14,7 +14,7 @@
 <p align="center"> <a href="https://twitter.com/_vimrul_" target="blank"><img src="https://img.shields.io/twitter/follow/_vimrul_?logo=twitter&style=for-the-badge" alt="_vimrul_" /></a> </p>
 
 
- 🔭 I’m currently working on **API**
+ 🔭 I’m currently working on <a href="https://weathering-with-emon.netlify.app/" target="_blank">**WEATHER Project**</a>
 
  🧠 I’m currently learning **Tailwind,ES6,JavaScript,Algorithm**
 
