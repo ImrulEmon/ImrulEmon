@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">Hi 👋, I'm Imrul Emon
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="30" width="30"/>, I'm Imrul Emon
  <img src="https://media.giphy.com/media/dhsEopNkQVlSZ3LJHx/giphy.gif" width="20" height="20" />
   
  </h1>
