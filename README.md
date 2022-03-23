@@ -1,9 +1,7 @@
 <div align="center">
  <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="30" width="30"/>, I'm Imrul Emon
  <img src="https://media.giphy.com/media/dhsEopNkQVlSZ3LJHx/giphy.gif" width="20" height="20" />
-  
  </h1>
- 
  
 <h3 align="center">A passionate Web developer and Programmer</h3>
 
@@ -13,24 +11,15 @@
 
 <p align="center"> <a href="https://twitter.com/_vimrul_" target="blank"><img src="https://img.shields.io/twitter/follow/_vimrul_?logo=twitter&style=for-the-badge" alt="_vimrul_" /></a> </p>
 
-
  🔭 I’m currently working on <a href="https://weathering-with-emon.netlify.app/" target="_blank">:cloud:**WEATHER Project**:cloud_with_lightning_and_rain:</a> | <a href="https://imrulemon-drink.netlify.app/" target="_blank">:cocktail:**Drink Project**:wine_glass:</a> | <a href="https://imrulemon.github.io/Speller/" target="_blank">:book:**Book Archive Project**:book:</a>
 
  🧠 I’m currently learning **Tailwind,ES6,JavaScript,Algorithm**
-
- 👯 I’m looking to collaborate on **...**
 
  🤝 I’m looking for help with **Web and iOS Development**
 
  👨‍💻 All of my projects are available at [...](...)
 
- 📝 I regularly write articles on [...](...)
-
- 💬 Ask me about **...**
-
  📫 How to reach me **emimrulemon@gmail.com**
-
- 📄 Know about my experiences [...](...)
 
  <img src="https://media.giphy.com/media/zhrlcZJsvQWDm/giphy.gif" width="50" height="50"/> Fun fact **I love Anime<img src="https://media.giphy.com/media/AyCbZVuOqD5MA/giphy.gif" width="40" height="40" />**
 
