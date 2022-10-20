@@ -14,7 +14,7 @@
  🔭 I’m currently working on <a href="https://meditrina.netlify.app/" target="_blank">Meditrina</a>
  🔭 I’m currently working on <a href="https://imrulemon-forhumanity.netlify.app/" target="_blank">ForHumanity link 2</a>
 
- 🧠 I’m currently learning **REACT** <img width='25' src='https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif' /> & **Firebase** :fire:
+ 🧠 I’m currently learning  **Flutter**  **REACT** <img width='25' src='https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif' /> & **Firebase** :fire:
 
  🤝 I’m looking for help with **Web and iOS Development**
 
